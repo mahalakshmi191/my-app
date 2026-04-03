@@ -9,6 +9,7 @@ pipeline {
         APP_DIR = "/var/www/myapp"
     }
 
+
     stages {
 
         stage('Checkout') {
